@@ -8,7 +8,7 @@ middle_name:
 last_name: Falk
 email: michael.falk@unimelb.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Computational literary scholar from the University of Melbourne. 
+  Computational literary scholar from the University of Melbourne.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
