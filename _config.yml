@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Michael
-middle_name: 
+middle_name:
 last_name: Falk
 email: michael.falk@unimelb.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -162,7 +162,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources: []
+external_sources:
+  []
   # - name: wikihistories.net
   #   rss_url: https://wikihistories.net/category/newsletter/feed
 

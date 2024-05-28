@@ -216,33 +216,19 @@
       "name": "Literature",
       "level": "Master",
       "icon": "fa-solid fa-book",
-      "keywords": [
-        "Close Reading",
-        "Distant Reading",
-        "Algorithmic Criticism"
-      ]
+      "keywords": ["Close Reading", "Distant Reading", "Algorithmic Criticism"]
     },
     {
       "name": "Programming",
       "level": "Journeyman",
       "icon": "fa-solid fa-hand",
-      "keywords": [
-        "R",
-        "Python",
-        "LISP/Scheme",
-        "JavaScript",
-        "PHP"
-      ]
+      "keywords": ["R", "Python", "LISP/Scheme", "JavaScript", "PHP"]
     },
     {
       "name": "Digital Methods",
       "level": "Master",
       "icon": "fa-solid fa-magnifying-glass-chart",
-      "keywords": [
-        "Text analysis",
-        "Network analysis",
-        "Mapping"
-      ]
+      "keywords": ["Text analysis", "Network analysis", "Mapping"]
     },
     {
       "name": "Public Speaking",
@@ -271,30 +257,17 @@
     {
       "name": "Literary History",
       "icon": "fa-solid fa-book",
-      "keywords": [
-        "Romanticism",
-        "Colonial Australian Literature",
-        "Depictions of AI"
-      ]
+      "keywords": ["Romanticism", "Colonial Australian Literature", "Depictions of AI"]
     },
     {
       "name": "History and Philosophy of Computing",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Computational Creativity",
-        "History of AI",
-        "Machine Learning",
-        "Symbolic AI",
-        "Critical Code Studies"
-      ]
+      "keywords": ["Computational Creativity", "History of AI", "Machine Learning", "Symbolic AI", "Critical Code Studies"]
     },
     {
       "name": "Intellectual History",
       "icon": "fa-solid fa-landmark",
-      "keywords": [
-        "History and Philosophy of the Self",
-        "History and Philosophy of the Human Sciences"
-      ]
+      "keywords": ["History and Philosophy of the Self", "History and Philosophy of the Human Sciences"]
     }
   ],
   "projects": [
