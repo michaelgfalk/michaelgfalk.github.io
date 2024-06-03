@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 blog_name: that we may reap # blog_name will be displayed in your blog page
 blog_description: code | world | enlightenment
 permalink: /blog/:year/:title/
-lsi: true # produce an index for related posts
+lsi: false # produced a latent semantic index for related posts
 
 # Pagination
 pagination:
@@ -161,7 +161,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  []
+  - name: anticodians.org
+    rss_url: https://anticodians.org/atom.xml
   # - name: wikihistories.net
   #   rss_url: https://wikihistories.net/category/newsletter/feed
 
