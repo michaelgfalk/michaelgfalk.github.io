@@ -170,6 +170,13 @@
       {{ entry.note | strip }}
     </div>
 
+    <!-- Show doi -->
+    {% if entry.doi %}
+    <div class="periodical">
+      doi:<a href="https://doi.org/{{ entry.doi }}">{{ entry.doi }}</a>
+    </div>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
