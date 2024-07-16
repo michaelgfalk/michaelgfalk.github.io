@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Senior Lecturer in Digital Studies at the University of Melbourne.
+I am Senior Lecturer in Digital Studies at the University of Melbourne, and a [Chief Investigator](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP220100662) on the [*wikihistories* project](https://wikihistories.net).
 
 I co-ordinate the [Digital Studies](https://study.unimelb.edu.au/find/courses/minor/digital-studies-minor/) minor in the Faculty of Arts. I teach [students to code](https://handbook.unimelb.edu.au/subjects/arts20001). I teach them about the [history of computing](https://handbook.unimelb.edu.au/subjects/arts10003), and I teach them about [the place of the Humanities and Social Sciences in that history](https://handbook.unimelb.edu.au/subjects/arts30003).
 
