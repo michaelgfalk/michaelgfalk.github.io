@@ -163,6 +163,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: anticodians.org
     rss_url: https://anticodians.org/atom.xml
+  - name: homo-calculans.blog
+    rss_url: https://homo-calculans.blog/index.xml
   # - name: wikihistories.net
   #   rss_url: https://wikihistories.net/category/newsletter/feed
 
