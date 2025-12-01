@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Call for Papers:** The CFP for [Digital Humanities Australasia '25]() is out. Please join us in Ngambri/Canberra from December 2-5 to discuss all things digital and humanistic.
+**Call for Papers:** The CFP for [Digital Humanities Australasia '25]() is out. Please join us in Canberra/Ngambri from December 2-5 to discuss all things digital and humanistic.
