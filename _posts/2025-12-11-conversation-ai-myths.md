@@ -6,6 +6,7 @@ date: 2025-12-11
 categories: research
 tags: artificial-intelligence literature
 ---
+
 <div class="theconversation-article-body">
     <figure>
       <img src="https://images.theconversation.com/files/704714/original/file-20251126-56-vqq3nc.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C1582%2C934&q=45&auto=format&w=754&fit=clip" />
@@ -15,7 +16,7 @@ tags: artificial-intelligence literature
         </figcaption>
     </figure>
 
-  <span><a href="https://theconversation.com/profiles/michael-falk-419993">Michael Falk</a>, <em><a href="https://theconversation.com/institutions/the-university-of-melbourne-722">The University of Melbourne</a></em></span>
+<span><a href="https://theconversation.com/profiles/michael-falk-419993">Michael Falk</a>, <em><a href="https://theconversation.com/institutions/the-university-of-melbourne-722">The University of Melbourne</a></em></span>
 
   <p>It seems the AI hype has turned into an <a href="https://theconversation.com/yes-there-is-an-ai-investment-bubble-here-are-three-scenarios-for-how-it-could-end-269525">AI bubble</a>. There have been many bubbles before, from the <a href="https://en.wikipedia.org/wiki/Tulip_mania">Tulip mania</a> of the 17th century to the <a href="https://en.wikipedia.org/wiki/Subprime_mortgage_crisis">derivatives bubble</a> of the 21st century. For many commentators, the most relevant precedent today is the <a href="https://youtu.be/ZIbEn5oH4jA?si=nAdwGeAtaPaAkvyu">dotcom bubble</a> of the 1990s. Back then, a new technology (the <a href="https://en.wikipedia.org/wiki/World_Wide_Web">World Wide Web</a>) unleashed a wave of “<a href="https://en.wikipedia.org/wiki/Irrational_exuberance">irrational exuberance</a>”. Investors poured billions into any company with “.com” in the name. </p>
 
